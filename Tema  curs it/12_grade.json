@@ -1,0 +1,12 @@
+[
+    {"name": "Alice", "grades": {"math": 85, "english": 78, "science": 92}},
+    {"name": "Bob", "grades": {"math": 72, "english": 65, "science": 70}},
+    {"name": "Charlie", "grades": {"math": 90, "english": 88, "science": 95}},
+    {"name": "Diana", "grades": {"math": 60, "english": 75, "science": 68}},
+    {"name": "Ethan", "grades": {"math": 100, "english": 90, "science": 98}},
+    {"name": "Fiona", "grades": {"math": 55, "english": 60, "science": 58}},
+    {"name": "George", "grades": {"math": 80, "english": 82, "science": 85}},
+    {"name": "Hannah", "grades": {"math": 95, "english": 93, "science": 97}},
+    {"name": "Ivan", "grades": {"math": 45, "english": 50, "science": 55}},
+    {"name": "Julia", "grades": {"math": 88, "english": 84, "science": 86}}
+  ]

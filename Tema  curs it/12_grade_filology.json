@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Logan",
+        "grades": {
+            "geography": 92.0,
+            "english": 89.0,
+            "history": 94.0
+        }
+    },
+    {
+        "name": "Lucas",
+        "grades": {
+            "geography": 84.0,
+            "english": 79.0,
+            "history": 85.0
+        }
+    },
+    {
+        "name": "Mason",
+        "grades": {
+            "geography": 75.0,
+            "english": 70.0,
+            "history": 68.0
+        }
+    },
+    {
+        "name": "Elijah",
+        "grades": {
+            "geography": 90.0,
+            "english": 91.0,
+            "history": 93.0
+        }
+    },
+    {
+        "name": "Amelia",
+        "grades": {
+            "geography": 88.0,
+            "english": 84.0,
+            "history": 86.0
+        }
+    },
+    {
+        "name": "Harper",
+        "grades": {
+            "geography": 55.0,
+            "english": 60.0,
+            "history": 52.0
+        }
+    },
+    {
+        "name": "Evelyn",
+        "grades": {
+            "geography": 77.0,
+            "english": 72.0,
+            "history": 75.0
+        }
+    },
+    {
+        "name": "Luna",
+        "grades": {
+            "geography": 63.0,
+            "english": 69.0,
+            "history": 65.0
+        }
+    },
+    {
+        "name": "Ella",
+        "grades": {
+            "geography": 95.0,
+            "english": 96.0,
+            "history": 94.0
+        }
+    },
+    {
+        "name": "Aria",
+        "grades": {
+            "geography": 50.0,
+            "english": 45.0,
+            "history": 49.0
+        }
+    }
+]
